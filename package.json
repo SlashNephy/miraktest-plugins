@@ -85,7 +85,7 @@
     "dayjs": "^1.11.3",
     "discord-rpc": "^4.0.1",
     "eventmit": "^1.1.0",
-    "fast-xml-parser": "^4.0.9",
+    "fast-xml-parser": "^4.2.4",
     "format-duration": "^2.0.0",
     "get-port": "^6.1.2",
     "graphql": "^16.5.0",
